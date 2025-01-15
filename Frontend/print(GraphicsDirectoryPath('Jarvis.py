@@ -1,0 +1,1 @@
+print(GraphicsDirectoryPath('Jarvis.gif'))
